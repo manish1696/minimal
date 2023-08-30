@@ -1,123 +1,51 @@
+# Data Science Portfolio
 ---
-layout: default
+## Deep Learning & Machine learning
+
+### Voice Based Emotion Recoginition
+
+Voice Based Emotion Recogintion is a of processes predicting human emotions from audio signals using artificial intelligence Deep learning techniques. This can include emotion like happy, sad, angery, surprised, and more.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/manish1696/Voice-Based-Emotion-Recognition)
+
+<center><img src="images/vber.jpg"/></center>
+
 ---
+### Rasa Chatbot
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/manish1696/Simple-Rasa-Chatbot)
 
-[Link to another page](./another-page.html).
+This is just a basic code to create a simple chatbot using Rasa.
 
-There should be whitespace between paragraphs.
+It contains code one need to setup a basic bot. Chatbots are conversational tools that perform routine tasks efficiently. People like them because they help them get through those tasks quickly so they can focus their attention on high-level, strategic, and engaging activities that require human capabilities that cannot be replicated by machines.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<center><img src="images/bot.jpg"/></center>
 
-# Header 1
+---
+### Sales Prediction
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/manish1696/Walmart-Sales-Prediction)
 
-## Header 2
+Sales prediction also commonly called sales forecasting is the process of estimating future sales by predicting the amount of product or services an individual salesperson, a sales team, or a company is likely to sell in a fixed time period i.e. next week, month, quarter, or year.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+<center><img src="images/sales.png"/></center>
 
-### Header 3
+---
+### Diabetic Classification
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/manish1696/Diabetic-Classification)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+It contains code for the diabatic classification.There are 2 main types of diabetes. Type 1 diabetes occurs when the pancreas is unable to produce insulin. Type 2 diabetes occurs when the pancreas does not produce enough insulin or when the body does not effectively use the insulin that is produced.
 
-#### Header 4
+<center><img src="images/diabatic.png"/></center>
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+---
+### House Price prediction
 
-##### Header 5
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/manish1696/House-Price-prediction)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+House price prediction can help the developer determine the selling price of a house and can help the customer to arrange the right time to purchase a house. There are three factors that influence the price of a house which include physical conditions, concept and location.
 
-###### Header 6
+<center><img src="images/house.jpg"/></center>
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+---
