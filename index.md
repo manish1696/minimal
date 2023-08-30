@@ -8,7 +8,7 @@ Voice Based Emotion Recogintion is a of processes predicting human emotions from
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/manish1696/Voice-Based-Emotion-Recognition)
 
-<center><img src="images/vber.jpg"/></center>
+<center><img src="images/vber.png"/></center>
 
 ---
 ### Rasa Chatbot
@@ -19,7 +19,7 @@ This is just a basic code to create a simple chatbot using Rasa.
 
 It contains code one need to setup a basic bot. Chatbots are conversational tools that perform routine tasks efficiently. People like them because they help them get through those tasks quickly so they can focus their attention on high-level, strategic, and engaging activities that require human capabilities that cannot be replicated by machines.
 
-<center><img src="images/bot.jpg"/></center>
+<center><img src="images/bot.png"/></center>
 
 ---
 ### Sales Prediction
@@ -28,7 +28,7 @@ It contains code one need to setup a basic bot. Chatbots are conversational tool
 
 Sales prediction also commonly called sales forecasting is the process of estimating future sales by predicting the amount of product or services an individual salesperson, a sales team, or a company is likely to sell in a fixed time period i.e. next week, month, quarter, or year.
 
-<center><img src="images/sales.png"/></center>
+<center><img src="images/sales.jpg"/></center>
 
 ---
 ### Diabetic Classification
@@ -37,7 +37,7 @@ Sales prediction also commonly called sales forecasting is the process of estima
 
 It contains code for the diabatic classification.There are 2 main types of diabetes. Type 1 diabetes occurs when the pancreas is unable to produce insulin. Type 2 diabetes occurs when the pancreas does not produce enough insulin or when the body does not effectively use the insulin that is produced.
 
-<center><img src="images/diabatic.png"/></center>
+<center><img src="images/diabatic.jpg"/></center>
 
 ---
 ### House Price prediction
